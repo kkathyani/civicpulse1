@@ -1,4 +1,4 @@
-from utils.database_manager import insert_complaint
+from database_manager import insert_complaint
 import streamlit as st
 
 st.set_page_config(
